@@ -1,0 +1,11 @@
+locations:
+  spawn: 'world, -1.5, 151, 50.5, 180, 0'
+  tops: 'world, 4.5, 155, 37.5, 0, 0'
+  npc:
+    spectate: 'world, -1.5, 151, 25.5, 0, 0'
+    rewards: 'world, -3.5, 151, 45.5, -26, 0'
+    solo: 'world, 1.5, 152, 26.5, 1, 0'
+    team: 'world, -4.5, 152, 26.5, 1, 0'
+    ranked: 'world, -7.5, 152, 28.5, -18, 0'
+    crazy: 'world, 4.5, 152, 28.5, 16, 0'
+  soulsBox: 'world, 0.5, 50, 0.5, 0, 0'

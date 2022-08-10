@@ -1,0 +1,8 @@
+name: PlazmixSkyWarsLobby
+main: net.plazmix.lobby.SkyWarsLobbyPlugin
+
+version: 1.0
+author: Frotter
+
+depend:
+  - PlazmixAPI
